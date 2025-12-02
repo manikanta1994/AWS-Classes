@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-# Pull the Docker image from Docker
+# Pull the Docker image from
 docker pull manikanta1994/simple-python-app:latest
 
 # Run the Docker image as a container
